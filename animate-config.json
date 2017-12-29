@@ -84,6 +84,7 @@
 
   "specials": {
     "hinge": true,
+    "jackInTheBox": true,
     "rollIn": true,
     "rollOut": true
   },
